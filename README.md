@@ -1,6 +1,8 @@
 # latihan_kuis_pam
 
-A new Flutter project.
+Nama: Nindya Fadhila
+NIM: 124220059
+Kelas: Prak PAM SI-B
 
 ## Getting Started
 
